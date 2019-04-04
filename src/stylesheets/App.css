@@ -1,0 +1,21 @@
+
+.button-wrap{
+  display: grid;
+  grid-template-columns: min-content min-content;
+  grid-gap: 1rem;
+}
+
+.cadetblue-bg {
+  background-color:cadetblue;
+  margin-top:5rem !important;
+  color:white;
+}
+
+.white-bg{
+  background-color:white;
+}
+
+.gainsboto-bg{
+  border:1px solid slategray;
+  box-shadow: 5px 7px lightgray;
+}

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export default class ImageAddForm extends Component {
+export default class AddContactForm extends Component {
 	nameInput = React.createRef();
 	numberInput = React.createRef();
 	groupInput = React.createRef();
